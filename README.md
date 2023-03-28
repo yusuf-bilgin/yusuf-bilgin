@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/4zeM.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yusuf Bilgin</h1>
 <h3 align="center">A passionate computer enginnering student at AGU</h3>
 <p img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
