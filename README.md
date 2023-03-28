@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced Python**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
+- 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
 
 - 💬 Ask me about **Algorithms, Computer Networks, Linux**
 
