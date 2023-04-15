@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yusufbilgin1905@gmail.com**
 
-- ⚡ Fun fact **:D**
+- ⚡ Fun fact **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
