@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-bilgin&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-bilgin" /> </p>
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning **Advanced Python, Embedded Programming, Computer Networks and System Programming **
 
 - 👨‍💻 All of my certificates are available at [https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
 
