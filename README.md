@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      ## 🛠️ Tech Stack
+      <h3>🛠️ Tech Stack </h3>
         <p align="left">
           <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
           <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
@@ -27,7 +27,7 @@
           <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /></a>
           <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" /></a>
         </p>
-      ## 🌐 Connect with Me
+      <h3> 🌐 Connect with Me </h3>
         <p align="left">
           <a href="https://linkedin.com/in/yusufbilginn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
           <a href="https://medium.com/@yusufbilgin1905" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" /></a>
@@ -36,7 +36,7 @@
         </p>
       </td>
     <td width="50%" valign="top">
-      ## 📊 GitHub Stats
+      <h3> 📊 GitHub Stats </h3>
         <p align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=yusuf-bilgin&show_icons=true&locale=en" alt="Yusuf's GitHub Stats" />
         </p>
