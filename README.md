@@ -64,5 +64,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
 </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf-bilgin&show_icons=true&locale=en" alt="yusuf-bilgin" /></p>
+
+<div align="center">
+
+  ![snake gif](https://github.com/yusuf-bilgin/yusuf-bilgin/blob/output/github-snake-dark.svg)
+</div>
+
+
+
