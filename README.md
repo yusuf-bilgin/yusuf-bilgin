@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center"><i>Computer Engineering Graduate | Asp.NET Core Learner</i></h3>
+<p align="center"><i>Computer Engineering Graduate | Asp.NET Core Learner</i></p>
 
 ## 🚀 About Me
 
 - 🌱 Currently diving into **ASP.NET Core**, focusing on **Entity Framework** and **MVC architecture**
-- 👨‍💻 Explore my projects: [Google Drive Portfolio](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
-- 📄 View my resume: [Canva CV](https://www.canva.com/design/DAGj8fU6vJc/l0Su6_se28SFD75kO64nzA/edit?utm_content=DAGj8fU6vJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👨‍💻 Explore my projects: [Portfolio](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
+- 📄 View my resume: [View](https://www.canva.com/design/DAGj8fU6vJc/l0Su6_se28SFD75kO64nzA/edit?utm_content=DAGj8fU6vJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 Reach me at: **yusufbilgin.dev@gmail.com**
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /></a>
