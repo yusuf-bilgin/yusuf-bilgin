@@ -48,9 +48,9 @@
 </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <p align="center">
           <img src="https://github.com/yusuf-bilgin/yusuf-bilgin/blob/output/github-snake-dark.svg" alt="Snake animation" />
       </p>
