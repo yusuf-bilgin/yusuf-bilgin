@@ -3,7 +3,8 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently diving into **ASP.NET Core**, focusing on **Entity Framework** and **MVC architecture**
+- 🌱 Currently diving into **ASP.NET Core**, focusing on **Entity Framework**, **MVC** architecture, **SignalR** for real-time communication, **Redis** for distributed caching and pub/sub, **RabbitMQ** for asynchronous messaging, **Docker** for containerization, and **Kubernetes** for orchestrating scalable deployments.
+
 - 👨‍💻 Explore my projects: [Portfolio](https://drive.google.com/drive/folders/1_9SRtzEV_T7jj_mO7OCLnAKVrQ_LUBvi?usp=sharing)
 - 📄 View my resume: [View](https://www.canva.com/design/DAGj8fU6vJc/l0Su6_se28SFD75kO64nzA/edit?utm_content=DAGj8fU6vJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 Reach me at: **yusufbilgin.dev@gmail.com**
